@@ -18,7 +18,7 @@
 Solid, Transparent, Pearl, Chrome, Metallic, Milky, Glitter, Speckle, Ink, Process,
 Modulex
 
-6. **New** The Builders' would like a search box that will accept a `LegoId` and display only that Lego. *What will you display if the `LegoId` is not valid? Being able to hit the enter key would be a nice touch too.
+10. **New** The Builders' would like a search box that will accept a `LegoId` and display only that Lego. *What will you display if the `LegoId` is not valid? Being able to hit the enter key would be a nice touch too.
 
 ### Stretch Goal
 If we are able to complete the feature list within budgeted time, the Builders would like to add the option to sort the Legos by the manufactured year; oldest to newest and then back again. Unfortunately, some Legos in the dataset may not have a value. Where do they go? You decide.
