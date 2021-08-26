@@ -11,17 +11,19 @@
 1. **New** Some bricks have notes. If a brick has notes, include them on the brick detail.
 1. **New** Lucy and Emmet would like the brick color names to be all capital letters. Add a `helper function` and invoke it to capitalize the brick name.
  1. **Bug** The years manufactured are not displaying correct. If the value cannot be calculated based on the provided data, remove the years display. Otherwise, it should display a valid number of years in production.
- 1. **Bug** Some bricks have incomplete information, specifically the color value or name. While the builders want to keep the data intact, these items should not be displayed in the visual list. 
-1. **New** Dropdowns are all the rage. The Builders would like one added to the nav area to show specific bricks by material.
+1. **New** Dropdowns are all the rage. The Builders would like one added to the nav area with the functionality to show specific bricks by material.
 
 **Brick Materials:**
-Solid, Transparent, Pearl, Chrome, Metallic, Milky, Glitter, Speckle, Ink, Process,
-Modulex
+Solid, Transparent, Pearl, Chrome, Metallic, Milky, Glitter, Speckle, Ink, Process, Modulex
 
-10. **New** The Builders' would like a search box that will accept a `LegoId` and display only that Lego. *What will you display if the `LegoId` is not valid? Being able to hit the enter key would be a nice touch too.
 
-### Stretch Goal
-If we are able to complete the feature list within budgeted time, the Builders would like to add the option to sort the Legos by the manufactured year; oldest to newest and then back again. Unfortunately, some Legos in the dataset may not have a value. Where do they go? You decide.
+
+### Stretch Goals
+If we are able to complete the feature list within budgeted time, the Builders have a few more requests. (There are numerous ways each of these tasks could be completed.)
+
+1. The Builders' would like a search box that will accept a `LegoId` and display only that Lego. What will you display if the `LegoId` is not valid? Being able to hit the enter key would be a nice touch too. ***Hint** Check out array methods: find, includes, or filter
+1. Some bricks have incomplete information, specifically the color value or name. While the builders want to keep the data intact, these items should not be displayed in the visual list. ***Hint** Check out conditional statements or maybe array method filter.
+1. The Builders' would like to add the option to sort the Legos by the manufactured year; oldest to newest and then back again. Unfortunately, some Legos in the dataset may not have a value. Where do they go? You decide. ***Hint** Check out array methods: sort
 
 
 ##
