@@ -3,7 +3,9 @@
 
  The Builders, Lucy and Emmet are lego block enthusiasts. They maintain a webpage that keeps track of block details including block names, materials, colors, manufactured years, and example images. Recently they came into some extra cash and would like to update their app and fix a couple of bugs.
 
+ Each of these items should be a branch that is merged into the main and then a new branch for the next item. Name your branches appropriately. 
 
+##
  1. **Bug** Missing bio information. The headline `About the Builders` can be seen at the bottom of the page, however it is missing all the information. The Builder's provided this information to the previous developer and believe it is there somewhere, although they cannot see it. 
  1. **Bug** The `About the Builders` should display on the right side of the screen next to the list of blocks. 
  1. **New** Emmet's favorite color is now red, change the functionality of the `Show Blue Legos` button to show red Legos. Be sure to update your HTML to reflect this change.
@@ -17,7 +19,7 @@
 Solid, Transparent, Pearl, Chrome, Metallic, Milky, Glitter, Speckle, Ink, Process, Modulex
 
 
-
+##
 ### Stretch Goals
 If we are able to complete the feature list within budgeted time, the Builders have a few more requests. (There are numerous ways each of these tasks could be completed.)
 
@@ -36,3 +38,4 @@ This exercise utilizes the following concepts:
 * Flexbox
 * Array Methods: filter, find, includes, map, sort
 * Conditional Statements
+* Git and GitHub
